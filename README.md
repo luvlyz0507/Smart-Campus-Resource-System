@@ -48,16 +48,5 @@ The project includes at least 10 test cases covering:
 
 Test cases and screenshots are available in the documentation and screenshots folders.
 
-Repository Structure
-
-Smart-Campus-Resource-System/
-├── src/
-│   └── main.cpp
-├── documentation/
-│   ├── README.md
-│   ├── test-cases.pdf
-│   └── complexity-analysis.pdf
-├── screenshots/
-└── README.md
 
 
